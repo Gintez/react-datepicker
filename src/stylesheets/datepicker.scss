@@ -450,14 +450,13 @@
   vertical-align: middle;
 
   &::after {
-    background-color: rgb(117, 117, 117);
     border-radius: 50%;
     bottom: 0;
     box-sizing: border-box;
-    color: #fff;
+    color: #999;
     content: "\00d7";
     cursor: pointer;
-    font-size: 12px;
+    font-size: 18px;
     height: 16px;
     width: 16px;
     line-height: 1;
